@@ -1,12 +1,12 @@
 # Iris_Model
-This is a Iris Classification ML Based Model
-In this project, I have created API using Flask to get prediction from model.pkl 
-In this project, I have used Random Forest Classifier
+- This is a Iris Classification ML Based Model
+- In this project, I have created API using Flask to get prediction from model.pkl 
+- In this project, I have used Random Forest Classifier
 
 Step to run the model 
-create a venv and install the requiremnts.txt file 
-after that run the model.ipynb file and in the end you will get pickle file of ML Model.
-Then, run app.py to create flask based API.
+1. create a venv and install the requiremnts.txt file 
+2. after that run the model.ipynb file and in the end you will get pickle file of ML Model.
+3. Then, run app.py to create flask based API.
 NOTE : I HAVE NOT CREATED FRONTEND OF THE FLASK MODEL. I HAVE TESTED MY MODEL'S API BY USING POSTMAN.
 
 POSTMAN : API TESTING RESULT
